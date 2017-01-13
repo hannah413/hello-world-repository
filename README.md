@@ -1,7 +1,7 @@
 # hello-world-repository
 Gittin' oriented.
 
-The crocodile 
+The crocodile \n
 went to the dentist 
 and he sat down in the chair,
 And the dentist said:
